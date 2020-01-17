@@ -13,7 +13,7 @@
   padding: 0 140px ;
   .leftSection {
     padding: 90px 0;
-    width: 100%;
+    width: 80%;
     .companyLogo {
       margin-bottom: 46px;
       text-align: left;
@@ -26,10 +26,12 @@
         font-size: 30px;
         font-weight: 300;
         font-family: 'Open Sans', sans-serif;
+        color: #404041;
       }
       h1 {
         font-family: 'Roboto', sans-serif;
         font-size: 42px;
+        color: #404041;
       }
       p {
         font-family: 'Open Sans', sans-serif;
@@ -38,6 +40,7 @@
         width: 300px;
         line-height: 30px;
         font-weight: 300;
+        color: #404041;
       }
     }
     .socialMedia {
@@ -45,7 +48,7 @@
       a {
         margin: 0 5px;
         img {
-          width: 30px;
+          width: 25px;
         }
       }
     }
