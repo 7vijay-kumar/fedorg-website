@@ -11,9 +11,17 @@
   align-items: center;
   align-content: center;
   padding: 0 140px ;
+  @media only screen and (max-width: 769px) {
+    width: 100%;
+    padding: 0 15px;
+    display: block;
+  }
   .leftSection {
     padding: 90px 0;
     width: 80%;
+    @media only screen and (max-width: 995px) {
+      width: 100%;
+    }
     .companyLogo {
       margin-bottom: 46px;
       text-align: left;
